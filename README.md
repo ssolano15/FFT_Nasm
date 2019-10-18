@@ -1,2 +1,1 @@
-# FFT_Nasm
-Repositorio de un programa de la transformada rápida de fourier diseñado en el lenguaje ensamblador NASM y en C para el curso de arquitectura de computadores
+https://user-images.githubusercontent.com/48689432/67126254-e7afaa00-f1b3-11e9-8a5f-d56cc460c553.png

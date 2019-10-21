@@ -1,2 +1,2 @@
- ![Screenshot](diagramafft.png) 
+ ![Screenshot](Diagramafft.png) 
   ![Screenshot](Flujo.png) 
